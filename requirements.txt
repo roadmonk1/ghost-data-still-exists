@@ -1,0 +1,3 @@
+# Core forensics engine runs on Python 3.10+ standard library (zero required external dependencies)
+# Optional dependencies for direct binary PDF document parsing:
+# PyMuPDF>=1.23.0

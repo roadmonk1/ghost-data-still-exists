@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Caches and environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Challenge Datasets & Predictions (Participant-facing / Private challenge artifacts)
+dataset/
+output.csv
+sample_pred.csv
+*.zip
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
